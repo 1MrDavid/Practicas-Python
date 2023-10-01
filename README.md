@@ -1,0 +1,21 @@
+# INTRODUCTION
+I don't know if anyone would be interested but I created this repo and I'll be uploading all my python practices; most of them are written in spanish because they were made either as classes assignments or personal practices. Throughout this file I'll be explaining all of them, why I did them and other details.
+# INTRODUCCIÓN
+No se si a alguien le interese pero hice este repositorio y estaré subiendo todas mis practicas en python; la mayoría fueron escritos en español porque fueron hechos como tarea de la universidad o como practica personal. A través de este documento los iré explicando, porque los hice y otros detalles.
+## BUBBLE
+(eng) Probably the first algorithm I learned and the first I've ever practiced. I tried a couple of times but eventually I figured it out. This practice consist in two arrays, one for students names and other for notes, and after registering all the students they are ordered with the bubble algorithm. Note that I didn't write a function because I didn't know about them when I did this.
+(esp) Probablemente el primer algoritmo que he aprendido y el primero con el que he practicado. Tuve que intentarlo unas cuantas veces, pero eventualmente lo resolví. Esta practica consiste en dos array, uno para los nombres de los estudiantes y otro para las notas, y después de registrar a todos los estudiantes son ordenados con el algoritmo burbuja. Notese que, no escribí ninguna función porque no sabia sobre eso cuando hice esto.
+## AHORCADO/HANGMAN
+(eng) This is another of my personal practices. I had the idea of recreating the hangman game using what I learned about python during my classes. There are two hangman files, I did the first one ("letra por letra" means letter by letter) with the idea of try to guess every letter one by one; but I thought it would be funnier letting the user guess any letter and figure out the word at they own rhythm. So, I made the second one ("mas complejo" means more complex). These hangman game consist in an array with words, a function with the game and a menu. I'm used to write menus thanks to the programming classes and our teacher. 
+(esp) Este es otra de mis practicas personales. Tuve la idea de recrear al juego del ahorcado con lo que había aprendido de python durante las clases. Hay dos ahorcados, Hice el primero (letra por letra) con la idea de intentar adivinar cada letra una por una; pero pensé en que sería más divertido dejar que el usuario adivinará cualquier letra y que descubra la palabra a su propio ritmo. Así que, hice el segundo (mas complejo). Estos juegos del ahorcado consisten en un array con palabras, una función con el juego y un menu. Me acostumbre a escribir menus gracias a las clases de programación y a nuestro profesor.
+## PERIMETRO DE FIGURAS GEOMETRICAS/PERIMETER OF GEOMETRIC FIGURES
+(eng) This was a homework for numerical and non-numerical programming. It consist in 4 files, each one with a code that calculates the perimeter of a geometric figure. These codes were made without functions because our teacher didn't want us to write functions yet.
+1.   Triangle perimeter: This code takes three values and calculates the perimeter. Additionally, it makes sure every value is higher than '0' and it says which triangle is.
+2. Square perimeter: Just takes one value and calculates the perimeter. Nothing special here.
+3. Rectangle perimeter: Takes vertical and horizontal values and calculates the perimeter. Again, nothing special.
+4. Regular polygon perimeter: Same as others.
+(esp) Este fue una tarea para programación numérica y no numérica. Este consiste en 4 archivos, cada uno con un código que calcula el perímetro de una figura geométrica. Estos códigos fueron hechos sin funciones porque nuestro profesor aún no quería que lo usemos.
+1. Perímetro de un triangulo: Este toma tres valores y calcula el perímetro. Además, se asegura de que cada valor sea mayor a '0' y dice que tipo de triangulo es-
+2. Perímetro de un triangulo: Solo toma un valor y calcula el perímetro. Nada especial aquí.
+3. Perímetro de un rectángulo: Toma valores verticales y horizontales y calcula el perímetro. Otra vez, nada especial.
+4. Perímetro de un polígono regular: Lo mismo que los anteriores.
